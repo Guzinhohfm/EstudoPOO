@@ -1,0 +1,14 @@
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\getset\obj\Debug\net7.0\getset.GeneratedMSBuildEditorConfig.editorconfig
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\getset\obj\Debug\net7.0\getset.AssemblyInfoInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\getset\obj\Debug\net7.0\getset.AssemblyInfo.cs
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\getset\obj\Debug\net7.0\getset.csproj.CoreCompileInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\getset\bin\Debug\net7.0\getset.exe
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\getset\bin\Debug\net7.0\getset.deps.json
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\getset\bin\Debug\net7.0\getset.runtimeconfig.json
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\getset\bin\Debug\net7.0\getset.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\getset\bin\Debug\net7.0\getset.pdb
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\getset\obj\Debug\net7.0\getset.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\getset\obj\Debug\net7.0\refint\getset.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\getset\obj\Debug\net7.0\getset.pdb
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\getset\obj\Debug\net7.0\getset.genruntimeconfig.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\getset\obj\Debug\net7.0\ref\getset.dll

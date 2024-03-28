@@ -1,0 +1,14 @@
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\construtor\bin\Debug\net7.0\construtor.exe
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\construtor\bin\Debug\net7.0\construtor.deps.json
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\construtor\bin\Debug\net7.0\construtor.runtimeconfig.json
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\construtor\bin\Debug\net7.0\construtor.dll
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\construtor\bin\Debug\net7.0\construtor.pdb
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\construtor\obj\Debug\net7.0\construtor.GeneratedMSBuildEditorConfig.editorconfig
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\construtor\obj\Debug\net7.0\construtor.AssemblyInfoInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\construtor\obj\Debug\net7.0\construtor.AssemblyInfo.cs
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\construtor\obj\Debug\net7.0\construtor.csproj.CoreCompileInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\construtor\obj\Debug\net7.0\construtor.dll
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\construtor\obj\Debug\net7.0\refint\construtor.dll
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\construtor\obj\Debug\net7.0\construtor.pdb
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\construtor\obj\Debug\net7.0\construtor.genruntimeconfig.cache
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\construtor\obj\Debug\net7.0\ref\construtor.dll

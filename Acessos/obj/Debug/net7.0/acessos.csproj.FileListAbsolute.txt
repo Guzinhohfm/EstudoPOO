@@ -1,0 +1,4 @@
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\acessos\obj\Debug\net7.0\acessos.GeneratedMSBuildEditorConfig.editorconfig
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\acessos\obj\Debug\net7.0\acessos.AssemblyInfoInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\acessos\obj\Debug\net7.0\acessos.AssemblyInfo.cs
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\acessos\obj\Debug\net7.0\acessos.csproj.CoreCompileInputs.cache

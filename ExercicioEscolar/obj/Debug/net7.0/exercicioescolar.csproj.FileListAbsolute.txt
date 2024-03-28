@@ -1,0 +1,14 @@
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\exercicioescolar\obj\Debug\net7.0\exercicioescolar.GeneratedMSBuildEditorConfig.editorconfig
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\exercicioescolar\obj\Debug\net7.0\exercicioescolar.AssemblyInfoInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\exercicioescolar\obj\Debug\net7.0\exercicioescolar.AssemblyInfo.cs
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\exercicioescolar\obj\Debug\net7.0\exercicioescolar.csproj.CoreCompileInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\exercicioescolar\bin\Debug\net7.0\exercicioescolar.exe
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\exercicioescolar\bin\Debug\net7.0\exercicioescolar.deps.json
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\exercicioescolar\bin\Debug\net7.0\exercicioescolar.runtimeconfig.json
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\exercicioescolar\bin\Debug\net7.0\exercicioescolar.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\exercicioescolar\bin\Debug\net7.0\exercicioescolar.pdb
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\exercicioescolar\obj\Debug\net7.0\exercicioescolar.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\exercicioescolar\obj\Debug\net7.0\refint\exercicioescolar.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\exercicioescolar\obj\Debug\net7.0\exercicioescolar.pdb
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\exercicioescolar\obj\Debug\net7.0\exercicioescolar.genruntimeconfig.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\exercicioescolar\obj\Debug\net7.0\ref\exercicioescolar.dll

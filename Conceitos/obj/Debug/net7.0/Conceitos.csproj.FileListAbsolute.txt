@@ -1,0 +1,14 @@
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\Conceitos\bin\Debug\net7.0\Conceitos.exe
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\Conceitos\bin\Debug\net7.0\Conceitos.deps.json
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\Conceitos\bin\Debug\net7.0\Conceitos.runtimeconfig.json
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\Conceitos\bin\Debug\net7.0\Conceitos.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\Conceitos\bin\Debug\net7.0\Conceitos.pdb
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\Conceitos\obj\Debug\net7.0\Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\Conceitos\obj\Debug\net7.0\Conceitos.AssemblyInfoInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\Conceitos\obj\Debug\net7.0\Conceitos.AssemblyInfo.cs
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\Conceitos\obj\Debug\net7.0\Conceitos.csproj.CoreCompileInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\Conceitos\obj\Debug\net7.0\Conceitos.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\Conceitos\obj\Debug\net7.0\refint\Conceitos.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\Conceitos\obj\Debug\net7.0\Conceitos.pdb
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\Conceitos\obj\Debug\net7.0\Conceitos.genruntimeconfig.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\Conceitos\obj\Debug\net7.0\ref\Conceitos.dll

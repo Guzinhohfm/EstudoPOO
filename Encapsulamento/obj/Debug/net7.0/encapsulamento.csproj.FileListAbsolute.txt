@@ -1,0 +1,14 @@
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\encapsulamento\bin\Debug\net7.0\encapsulamento.exe
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\encapsulamento\bin\Debug\net7.0\encapsulamento.deps.json
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\encapsulamento\bin\Debug\net7.0\encapsulamento.runtimeconfig.json
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\encapsulamento\bin\Debug\net7.0\encapsulamento.dll
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\encapsulamento\bin\Debug\net7.0\encapsulamento.pdb
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\encapsulamento\obj\Debug\net7.0\encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\encapsulamento\obj\Debug\net7.0\encapsulamento.AssemblyInfoInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\encapsulamento\obj\Debug\net7.0\encapsulamento.AssemblyInfo.cs
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\encapsulamento\obj\Debug\net7.0\encapsulamento.csproj.CoreCompileInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\encapsulamento\obj\Debug\net7.0\encapsulamento.dll
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\encapsulamento\obj\Debug\net7.0\refint\encapsulamento.dll
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\encapsulamento\obj\Debug\net7.0\encapsulamento.pdb
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\encapsulamento\obj\Debug\net7.0\encapsulamento.genruntimeconfig.cache
+G:\ESTUDOS\C#, .Net, ETC\orientacao-a-objetos\encapsulamento\obj\Debug\net7.0\ref\encapsulamento.dll

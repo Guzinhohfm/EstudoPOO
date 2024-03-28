@@ -1,0 +1,14 @@
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\metodos\obj\Debug\net7.0\metodos.GeneratedMSBuildEditorConfig.editorconfig
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\metodos\obj\Debug\net7.0\metodos.AssemblyInfoInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\metodos\obj\Debug\net7.0\metodos.AssemblyInfo.cs
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\metodos\obj\Debug\net7.0\metodos.csproj.CoreCompileInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\metodos\bin\Debug\net7.0\metodos.exe
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\metodos\bin\Debug\net7.0\metodos.deps.json
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\metodos\bin\Debug\net7.0\metodos.runtimeconfig.json
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\metodos\bin\Debug\net7.0\metodos.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\metodos\bin\Debug\net7.0\metodos.pdb
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\metodos\obj\Debug\net7.0\metodos.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\metodos\obj\Debug\net7.0\refint\metodos.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\metodos\obj\Debug\net7.0\metodos.pdb
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\metodos\obj\Debug\net7.0\metodos.genruntimeconfig.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\metodos\obj\Debug\net7.0\ref\metodos.dll

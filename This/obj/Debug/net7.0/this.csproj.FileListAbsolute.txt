@@ -1,0 +1,14 @@
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\this\bin\Debug\net7.0\this.exe
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\this\bin\Debug\net7.0\this.deps.json
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\this\bin\Debug\net7.0\this.runtimeconfig.json
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\this\bin\Debug\net7.0\this.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\this\bin\Debug\net7.0\this.pdb
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\this\obj\Debug\net7.0\this.GeneratedMSBuildEditorConfig.editorconfig
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\this\obj\Debug\net7.0\this.AssemblyInfoInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\this\obj\Debug\net7.0\this.AssemblyInfo.cs
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\this\obj\Debug\net7.0\this.csproj.CoreCompileInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\this\obj\Debug\net7.0\this.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\this\obj\Debug\net7.0\refint\this.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\this\obj\Debug\net7.0\this.pdb
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\this\obj\Debug\net7.0\this.genruntimeconfig.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\this\obj\Debug\net7.0\ref\this.dll

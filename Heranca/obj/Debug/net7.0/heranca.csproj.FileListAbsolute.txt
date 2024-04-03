@@ -1,0 +1,14 @@
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\heranca\obj\Debug\net7.0\heranca.GeneratedMSBuildEditorConfig.editorconfig
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\heranca\obj\Debug\net7.0\heranca.AssemblyInfoInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\heranca\obj\Debug\net7.0\heranca.AssemblyInfo.cs
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\heranca\obj\Debug\net7.0\heranca.csproj.CoreCompileInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\heranca\bin\Debug\net7.0\heranca.exe
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\heranca\bin\Debug\net7.0\heranca.deps.json
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\heranca\bin\Debug\net7.0\heranca.runtimeconfig.json
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\heranca\bin\Debug\net7.0\heranca.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\heranca\bin\Debug\net7.0\heranca.pdb
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\heranca\obj\Debug\net7.0\heranca.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\heranca\obj\Debug\net7.0\refint\heranca.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\heranca\obj\Debug\net7.0\heranca.pdb
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\heranca\obj\Debug\net7.0\heranca.genruntimeconfig.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\heranca\obj\Debug\net7.0\ref\heranca.dll

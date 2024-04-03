@@ -1,0 +1,14 @@
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\polimorfismo\bin\Debug\net7.0\polimorfismo.exe
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\polimorfismo\bin\Debug\net7.0\polimorfismo.deps.json
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\polimorfismo\bin\Debug\net7.0\polimorfismo.runtimeconfig.json
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\polimorfismo\bin\Debug\net7.0\polimorfismo.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\polimorfismo\bin\Debug\net7.0\polimorfismo.pdb
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\polimorfismo\obj\Debug\net7.0\polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\polimorfismo\obj\Debug\net7.0\polimorfismo.AssemblyInfoInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\polimorfismo\obj\Debug\net7.0\polimorfismo.AssemblyInfo.cs
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\polimorfismo\obj\Debug\net7.0\polimorfismo.csproj.CoreCompileInputs.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\polimorfismo\obj\Debug\net7.0\polimorfismo.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\polimorfismo\obj\Debug\net7.0\refint\polimorfismo.dll
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\polimorfismo\obj\Debug\net7.0\polimorfismo.pdb
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\polimorfismo\obj\Debug\net7.0\polimorfismo.genruntimeconfig.cache
+G:\ESTUDOS\C#, .Net, ETC\Orientacao-a-Objetos\polimorfismo\obj\Debug\net7.0\ref\polimorfismo.dll
